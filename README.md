@@ -65,6 +65,18 @@ Model performance was evaluated using:
 - NMSE (Normalized Mean Squared Error)
 
 ## Results
+Model performance was evaluated using RMSE and NMSE.
+
+Several models and ensemble approaches were developed and compared. Although the meta-learner achieved competitive performance, the averaging ensemble was selected as the final model because it proved to be more robust and less prone to overfitting while maintaining strong predictive accuracy.
 ### RMSE Comparison
 
 ![RMSE Comparison](rmse_comparison.png)
+
+## Credits
+
+Project completed as part of a master's course in statistics.
+
+Team members:
+- Aerts Robin
+- Laloy Anouar
+- Tfeili Rayane
